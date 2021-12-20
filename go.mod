@@ -1,4 +1,4 @@
-module open-cluster-management.io/multicloud-operators-subscription
+module github.com/dhaiducek/multicloud-operators-subscription-1
 
 go 1.17
 
